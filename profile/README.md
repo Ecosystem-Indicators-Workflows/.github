@@ -8,7 +8,7 @@ This GitHub organisation contain repositories for research projects associated w
 
 ## Members
 
-This was created by [José R. Ferrer-Paris](https://github.com/jrfep). 
+This GitHub organisation was created by [José R. Ferrer-Paris](https://github.com/jrfep) for the ARDC Ecosystem Indicators Workflow project.
 
 ## Projects
 
@@ -22,5 +22,7 @@ This was created by [José R. Ferrer-Paris](https://github.com/jrfep).
 
 ## Indicators of decline in abiotic conditions
 
-- TO DO
-
+- In progress: Timeseries of landcover changes in the Swamps of the Fleurieu Peninsula
+- In progress: Firehistory of Eastern Suburbs Banksia Scrubs
+- In progress: Fragmentation of tropical rainforest in Queensland
+- 
