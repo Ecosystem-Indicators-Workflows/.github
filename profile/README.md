@@ -14,15 +14,15 @@ This GitHub organisation was created by [José R. Ferrer-Paris](https://github.c
 
 ## Projects
 
-## Mapping Ecosystems in Australia
+### Mapping Ecosystems in Australia
 
-- Overview of existing ecosystem maps for Australia
+- Synthesis of [terrestrial ecosystem maps for Australia](https://github.com/Ecosystem-Indicators-Workflows/ecosystems-map-synthesis)
 
-## Indicators of ecosystem extent
+### Indicators of ecosystem extent
 
 - TO DO 
 
-## Indicators of decline in abiotic conditions
+### Indicators of decline in abiotic conditions
 
 - In progress: Timeseries of landcover changes in the Swamps of the Fleurieu Peninsula
 - In progress: Firehistory of Eastern Suburbs Banksia Scrubs
