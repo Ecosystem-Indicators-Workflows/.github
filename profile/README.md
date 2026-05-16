@@ -11,7 +11,10 @@ We aim to provide modular, fit-for-purpose toolbox that supports the development
 
 ## Members
 
-This GitHub organisation was created by [José R. Ferrer-Paris](https://github.com/jrfep) for the ARDC Ecosystem Indicators Workflow project.
+This GitHub organisation was created by [José R. Ferrer-Paris](https://github.com/jrfep).
+
+<!-- readme: jrfep,collaborators,contributors -start -->
+<!-- readme: jrfep,collaborators,contributors -end -->
 
 ## Work in progress
 
