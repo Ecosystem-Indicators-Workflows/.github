@@ -2,31 +2,41 @@
 
 This GitHub organisation contain repositories for research projects associated with the Ecosystem Indicators Workflows initiative. 
 
-<a dhref="https://www.flickr.com/photos/199798864@N08/54676029702/in/dateposted/">
-<img src="https://live.staticflickr.com/65535/54676029702_6ae0e2d8b4_z.jpg" width="640" height="480" alt="Paciente"/>
-</a>
+<a dhref="https://www.flickr.com/photos/199798864@N08/54676029702/in/dateposted/"><img src="https://live.staticflickr.com/65535/54676029702_6ae0e2d8b4_z.jpg" width="128" height="96" alt="Paciente"/></a>
+<a dhref="https://flic.kr/p/2q8RSFv"><img src="https://live.staticflickr.com/65535/53910201427_9cf3bc92ba_n.jpg" width="128" height="96" alt="Field work at Tarawi NR"/></a>
+<a dhref="https://www.flickr.com/photos/199798864@N08/53488067619/in/dateposted-public"><img src="https://live.staticflickr.com/65535/53488067619_72e04e487f_n.jpg" width="128" height="96" alt="Paseo-por-Bundeena"/></a>
+<a dhref="https://www.flickr.com/photos/199798864@N08/55096784168/in/dateposted-public"><img src="https://live.staticflickr.com/65535/55096784168_d6da0b28ca_m.jpg" width="128" height="96" alt="Wisky Bay"/></a>
 
-Follow this link to read more about the [ARDC Ecosystem Indicator Workflows](https://ardc.edu.au/project/ecosystem-indicator-workflows/)!
+We aim to provide modular, fit-for-purpose toolbox that supports the development of ecosystem-specific indicators. Learn more about the project at <https://ardc.edu.au/project/ecosystem-indicator-workflows/>.
 
 ## Members
 
 This GitHub organisation was created by [José R. Ferrer-Paris](https://github.com/jrfep) for the ARDC Ecosystem Indicators Workflow project.
 
-## Projects
+## Work in progress
+
+### Presentations 
+
+- Kick-off meeting [code](https://github.com/Ecosystem-Indicators-Workflows/project-presentations) [slides](https://jrfep.quarto.pub/ecosystems-indicators-workflows-project)
+- Focused workshop [code](https://github.com/Ecosystem-Indicators-Workflows/project-presentations) [slides](https://rpubs.com/jrfep/ecosystem-indicator-workflows)
 
 ### Mapping Ecosystems in Australia
 
 - Synthesis of [terrestrial ecosystem maps for Australia](https://github.com/Ecosystem-Indicators-Workflows/ecosystems-map-synthesis)
 
-### Indicators of ecosystem extent
+### Tools for the IUCN Global Ecosystem Typology
 
-- TO DO 
+- Research vocabulary IUCN GET:
+  - Tools for data preparation [code](https://github.com/Meghali-Nandi/ARDC-Vocabularies)
+  - API test [code](https://github.com/WilliamMasson/test-iucn-get-api)
+  - Registered vocabulary [demo](https://demo.vocabs.ardc.edu.au/viewById/1167)  
+- Cross referencing functions
+  - {Next in to do list !}
 
-### Indicators of decline in abiotic conditions
+### Tools and training for the IUCN Red List of Ecosystems assessments
 
-- In progress: Timeseries of landcover changes in the Swamps of the Fleurieu Peninsula
-- In progress: Firehistory of Eastern Suburbs Banksia Scrubs
-- In progress: Fragmentation of tropical rainforest in Queensland
-- 
+- Assessment functions: `redlistr` (R package) [code](https://github.com/red-list-ecosystem/redlistr) and [documentation](https://red-list-ecosystem.github.io/redlistr/)
+- Training: `redlistr` intro workshop [code and data](https://github.com/red-list-ecosystem/redlistr_intro_workshop)
+
 
 
