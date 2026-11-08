@@ -47,7 +47,7 @@ For a full list of repositories tagged as *ecosystem-specific-indicators* in our
   - API test [code](https://github.com/WilliamMasson/test-iucn-get-api)
   - Registered vocabulary [demo](https://demo.vocabs.ardc.edu.au/viewById/1167)  
 - Cross referencing functions
-  - {Next in to do list !}
+  - [ecoSynthesis](https://github.com/Ecosystem-Indicators-Workflows/ecoSynthesis) R package, with [documentation](https://ecosystem-indicators-workflows.github.io/ecoSynthesis/).
 
 ### Tools and training for the IUCN Red List of Ecosystems assessments
 
