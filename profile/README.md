@@ -18,6 +18,19 @@ This GitHub organisation was created by [José R. Ferrer-Paris](https://github.c
 
 ## Work in progress
 
+### Ecosystem indicator workflows
+
+Check our *Workflow development plan* and associated repositories [here](https://github.com/search?q=topic%3Aworkflow-development-plan+org%3AEcosystem-Indicators-Workflows&type=Repositories).
+
+Some examples:
+
+|Ecosystem type|Purpose|Indicator|Time frame|Links|
+|---|---|---|---|---|
+|Georgina gidgee woodlands|Risk assessment (RLE)|Bioclimatic suitability|Future change|[Repo](https://github.com/Ecosystem-Indicators-Workflows/workflow_example_Gidgee) / [Docs](https://ecosystem-indicators-workflows.github.io/workflow_example_Gidgee/)|
+|Tasmanian alpine bogs|Risk assessment (RLE)|Bioclimatic water balance|Historical change|[Repo](https://github.com/Ecosystem-Indicators-Workflows/tasmanian-bogs-water-balance) |
+
+For a full list of repositories tagged as *ecosystem-specific-indicators* in our organisation see [here](https://github.com/search?q=topic%3Aecosystem-specific-indicator+org%3AEcosystem-Indicators-Workflows&type=Repositories).
+
 ### Presentations 
 
 - Kick-off meeting [code](https://github.com/Ecosystem-Indicators-Workflows/project-presentations) [slides](https://jrfep.quarto.pub/ecosystems-indicators-workflows-project)
