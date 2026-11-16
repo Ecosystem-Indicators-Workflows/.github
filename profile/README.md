@@ -31,14 +31,29 @@ Some examples:
 
 For a full list of repositories tagged as *ecosystem-specific-indicators* in our organisation see [here](https://github.com/search?q=topic%3Aecosystem-specific-indicator+org%3AEcosystem-Indicators-Workflows&type=Repositories).
 
+
+### Cross-referencing ecosystem workflows
+
+We have developed several tools to assist on cross-referencing ecosystem classifications and maps to the IUCN Global Ecosystem Typology. These tools and respos are availble [here](https://github.com/search?q=topic%3Across-referencing+org%3AEcosystem-Indicators-Workflows&type=Repositories).
+
+Some examples of the application of these tools for Australian terrestrial ecosystems are here:
+
+|State or territories|Repository|Documentation|Outputs|
+|---|---|---|---|
+|Tasmania|[TASVEG-XREF](https://github.com/Ecosystem-Indicators-Workflows/TASVEG-XREF)|[Quarto ebook](https://ecosystem-indicators-workflows.github.io/TASVEG-XREF/)|[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24034201.svg)](https://doi.org/10.5281/zenodo.24034201)|
+|Western Australia|[WAVSA-XREF](https://github.com/Ecosystem-Indicators-Workflows/WAVSA-XREF)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24207312.svg)](https://doi.org/10.5281/zenodo.24207312)
+|Queensland|[QLDREDD](https://github.com/Ecosystem-Indicators-Workflows/QLDREDD)|||
+|Northern Territory|[VSNT](https://github.com/Ecosystem-Indicators-Workflows/VSNT)|||
+|New South Wales|[NSWPCT-XREF](https://github.com/Ecosystem-Indicators-Workflows/NSWPCT-XREF)|||
+
+These contributions will inform asynthesis of [terrestrial ecosystem maps for Australia](https://github.com/Ecosystem-Indicators-Workflows/ecosystems-map-synthesis).
+
+For a full list of repositories tagged as *xref-workflows* in our organisation see [here]([https://github.com/search?q=topic%3Aecosystem-specific-indicator+org%3AEcosystem-Indicators-Workflows&type=Repositories](https://github.com/search?q=topic%3Axref-workflow+org%3AEcosystem-Indicators-Workflows&type=Repositories)).
+
 ### Presentations 
 
 - Kick-off meeting [code](https://github.com/Ecosystem-Indicators-Workflows/project-presentations) [slides](https://jrfep.quarto.pub/ecosystems-indicators-workflows-project)
 - Focused workshop [code](https://github.com/Ecosystem-Indicators-Workflows/project-presentations) [slides](https://rpubs.com/jrfep/ecosystem-indicator-workflows)
-
-### Mapping Ecosystems in Australia
-
-- Synthesis of [terrestrial ecosystem maps for Australia](https://github.com/Ecosystem-Indicators-Workflows/ecosystems-map-synthesis)
 
 ### Tools for the IUCN Global Ecosystem Typology
 
