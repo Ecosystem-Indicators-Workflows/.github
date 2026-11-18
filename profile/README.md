@@ -58,9 +58,10 @@ For a full list of repositories tagged as *xref-workflows* in our organisation s
 ### Tools for the IUCN Global Ecosystem Typology
 
 - Research vocabulary IUCN GET:
-  - Tools for data preparation [code](https://github.com/Meghali-Nandi/ARDC-Vocabularies)
-  - API test [code](https://github.com/WilliamMasson/test-iucn-get-api)
-  - Registered vocabulary [demo](https://demo.vocabs.ardc.edu.au/viewById/1167)  
+  - Tools for data preparation [code](https://github.com/Ecosystem-Indicators-Workflows/ARDC-Vocabularies)
+  - API test [code](https://github.com/Ecosystem-Indicators-Workflows/test-iucn-get-api)
+  - Registered vocabulary [demo](https://demo.vocabs.ardc.edu.au/viewById/1167)
+  - Access via persistent ID at [w3id.org/iucn-get/IUCNEcosystemTypology](https://w3id.org/iucn-get/IUCNEcosystemTypology)
 - Cross referencing functions
   - [ecoSynthesis](https://github.com/Ecosystem-Indicators-Workflows/ecoSynthesis) R package, with [documentation](https://ecosystem-indicators-workflows.github.io/ecoSynthesis/).
 
