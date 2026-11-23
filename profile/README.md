@@ -44,7 +44,7 @@ Some examples of the application of these tools for Australian terrestrial ecosy
 |Western Australia|[WAVSA-XREF](https://github.com/Ecosystem-Indicators-Workflows/WAVSA-XREF)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24207312.svg)](https://doi.org/10.5281/zenodo.24207312)
 |Queensland|[QLDREDD](https://github.com/Ecosystem-Indicators-Workflows/QLDREDD)|||
 |Northern Territory|[VSNT](https://github.com/Ecosystem-Indicators-Workflows/VSNT)|||
-|New South Wales|[NSWPCT-XREF](https://github.com/Ecosystem-Indicators-Workflows/NSWPCT-XREF)|||
+|New South Wales|[NSWPCT-XREF](https://github.com/Ecosystem-Indicators-Workflows/NSWPCT-XREF)||![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24398850.svg)|
 
 These contributions will inform asynthesis of [terrestrial ecosystem maps for Australia](https://github.com/Ecosystem-Indicators-Workflows/ecosystems-map-synthesis).
 
