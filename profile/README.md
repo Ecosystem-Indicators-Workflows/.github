@@ -7,14 +7,11 @@ This GitHub organisation contain repositories for research projects associated w
 <a dhref="https://www.flickr.com/photos/199798864@N08/53488067619/in/dateposted-public"><img src="https://live.staticflickr.com/65535/53488067619_72e04e487f_n.jpg" width="128" height="96" alt="Paseo-por-Bundeena"/></a>
 <a dhref="https://www.flickr.com/photos/199798864@N08/55096784168/in/dateposted-public"><img src="https://live.staticflickr.com/65535/55096784168_d6da0b28ca_m.jpg" width="128" height="96" alt="Wisky Bay"/></a>
 
-We aim to provide modular, fit-for-purpose toolbox that supports the development of ecosystem-specific indicators. Learn more about the project at <https://ardc.edu.au/project/ecosystem-indicator-workflows/>.
+We aim to provide a modular, fit-for-purpose toolbox that supports the development of ecosystem-specific indicators. Learn more about the project at <https://ecosystem-indicators-workflows.github.io/> and <https://ardc.edu.au/project/ecosystem-indicator-workflows/>.
 
 ## Members
 
 This GitHub organisation was created by [José R. Ferrer-Paris](https://github.com/jrfep).
-
-<!-- readme: jrfep,collaborators,contributors -start -->
-<!-- readme: jrfep,collaborators,contributors -end -->
 
 ## Work in progress
 
@@ -45,6 +42,9 @@ Some examples of the application of these tools for Australian terrestrial ecosy
 |Queensland|[QLDREDD](https://github.com/Ecosystem-Indicators-Workflows/QLDREDD)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24522285.svg)](https://doi.org/10.5281/zenodo.24522285)||
 |Northern Territory|[VSNT](https://github.com/Ecosystem-Indicators-Workflows/VSNT)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24462545.svg)](https://doi.org/10.5281/zenodo.24462545)||
 |New South Wales|[NSWPCT-XREF](https://github.com/Ecosystem-Indicators-Workflows/NSWPCT-XREF)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24456935.svg)](https://doi.org/10.5281/zenodo.24456935)|[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24518245.svg)](https://doi.org/10.5281/zenodo.24518245)|
+|Victoria|[VICEVC-XREF](https://github.com/Ecosystem-Indicators-Workflows/VICEVC-XREF)||||
+|South Australia|[SAPEVEG-XREF](https://github.com/Ecosystem-Indicators-Workflows/SAPEVEG-XREF)||||
+|Australian Capital Territory|||||
 
 These contributions will inform a synthesis of [terrestrial ecosystem maps for Australia](https://github.com/Ecosystem-Indicators-Workflows/ecosystems-map-synthesis).
 
