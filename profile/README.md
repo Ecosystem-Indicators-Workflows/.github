@@ -42,7 +42,7 @@ Some examples of the application of these tools for Australian terrestrial ecosy
 |---|---|---|---|---|
 |Tasmania|[TASVEG-XREF](https://github.com/Ecosystem-Indicators-Workflows/TASVEG-XREF)|[Quarto ebook](https://ecosystem-indicators-workflows.github.io/TASVEG-XREF/)|[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24034201.svg)](https://doi.org/10.5281/zenodo.24034201)||
 |Western Australia|[WAVSA-XREF](https://github.com/Ecosystem-Indicators-Workflows/WAVSA-XREF)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24207312.svg)](https://doi.org/10.5281/zenodo.24207312)
-|Queensland|[QLDREDD](https://github.com/Ecosystem-Indicators-Workflows/QLDREDD)||||
+|Queensland|[QLDREDD](https://github.com/Ecosystem-Indicators-Workflows/QLDREDD)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24522285.svg)](https://doi.org/10.5281/zenodo.24522285)||
 |Northern Territory|[VSNT](https://github.com/Ecosystem-Indicators-Workflows/VSNT)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24462545.svg)](https://doi.org/10.5281/zenodo.24462545)||
 |New South Wales|[NSWPCT-XREF](https://github.com/Ecosystem-Indicators-Workflows/NSWPCT-XREF)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24456935.svg)](https://doi.org/10.5281/zenodo.24456935)|[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24518245.svg)](https://doi.org/10.5281/zenodo.24518245)|
 
