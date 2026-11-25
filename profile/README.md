@@ -38,13 +38,13 @@ We have developed several tools to assist on cross-referencing ecosystem classif
 
 Some examples of the application of these tools for Australian terrestrial ecosystems are here:
 
-|State or territories|Repository|Documentation|Outputs|
-|---|---|---|---|
-|Tasmania|[TASVEG-XREF](https://github.com/Ecosystem-Indicators-Workflows/TASVEG-XREF)|[Quarto ebook](https://ecosystem-indicators-workflows.github.io/TASVEG-XREF/)|[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24034201.svg)](https://doi.org/10.5281/zenodo.24034201)|
+|State or territories|Repository|Documentation|Outputs|Outputs|
+|---|---|---|---|---|
+|Tasmania|[TASVEG-XREF](https://github.com/Ecosystem-Indicators-Workflows/TASVEG-XREF)|[Quarto ebook](https://ecosystem-indicators-workflows.github.io/TASVEG-XREF/)|[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24034201.svg)](https://doi.org/10.5281/zenodo.24034201)||
 |Western Australia|[WAVSA-XREF](https://github.com/Ecosystem-Indicators-Workflows/WAVSA-XREF)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24207312.svg)](https://doi.org/10.5281/zenodo.24207312)
-|Queensland|[QLDREDD](https://github.com/Ecosystem-Indicators-Workflows/QLDREDD)|||
-|Northern Territory|[VSNT](https://github.com/Ecosystem-Indicators-Workflows/VSNT)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24462545.svg)](https://doi.org/10.5281/zenodo.24462545)|
-|New South Wales|[NSWPCT-XREF](https://github.com/Ecosystem-Indicators-Workflows/NSWPCT-XREF)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24456935.svg)](https://doi.org/10.5281/zenodo.24456935)|
+|Queensland|[QLDREDD](https://github.com/Ecosystem-Indicators-Workflows/QLDREDD)||||
+|Northern Territory|[VSNT](https://github.com/Ecosystem-Indicators-Workflows/VSNT)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24462545.svg)](https://doi.org/10.5281/zenodo.24462545)||
+|New South Wales|[NSWPCT-XREF](https://github.com/Ecosystem-Indicators-Workflows/NSWPCT-XREF)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24456935.svg)](https://doi.org/10.5281/zenodo.24456935)|[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24518245.svg)](https://doi.org/10.5281/zenodo.24518245)|
 
 These contributions will inform a synthesis of [terrestrial ecosystem maps for Australia](https://github.com/Ecosystem-Indicators-Workflows/ecosystems-map-synthesis).
 
