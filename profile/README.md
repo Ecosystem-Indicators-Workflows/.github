@@ -44,7 +44,7 @@ Some examples of the application of these tools for Australian terrestrial ecosy
 |New South Wales|[NSWPCT-XREF](https://github.com/Ecosystem-Indicators-Workflows/NSWPCT-XREF)||[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24456935.svg)](https://doi.org/10.5281/zenodo.24456935)|[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24518245.svg)](https://doi.org/10.5281/zenodo.24518245)|
 |Victoria|[VICEVC-XREF](https://github.com/Ecosystem-Indicators-Workflows/VICEVC-XREF)||||
 |South Australia|[SAPEVEG-XREF](https://github.com/Ecosystem-Indicators-Workflows/SAPEVEG-XREF)||||
-|Australian Capital Territory|||||
+|Australian Capital Territory|[ACT-XREF](https://github.com/Ecosystem-Indicators-Workflows/ACT-XREF)||||
 
 These contributions will inform a synthesis of [terrestrial ecosystem maps for Australia](https://github.com/Ecosystem-Indicators-Workflows/ecosystems-map-synthesis).
 
